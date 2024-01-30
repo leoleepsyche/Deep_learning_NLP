@@ -5,3 +5,5 @@
 ### Day 02 - Numpy Exercises 20-25
 
 ### Day 03 - perceptron(AND gate,OR gate,XOR gate)
+
+### Day 04 - Neural Network_01(basic information about Linear Algebra,Activation Function(step function,sigmoid function,ReLU function)) 
