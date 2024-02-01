@@ -10,4 +10,4 @@
 
 ### Day 05 - Neural Network_02(sofmax function) 
 
-### Day 06 - Neural Network_02(mnist) 
+### Day 06 - Neural Network_03(mnist) 
