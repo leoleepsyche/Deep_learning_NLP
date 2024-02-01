@@ -9,3 +9,5 @@
 ### Day 04 - Neural Network_01(basic information about Linear Algebra,Activation Function(step function,sigmoid function,ReLU function))
 
 ### Day 05 - Neural Network_02(sofmax function) 
+
+### Day 06 - Neural Network_02(mnist) 
