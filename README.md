@@ -13,3 +13,7 @@
 ### Day 06 - Neural Network_03(mnist) 
 
 ### Day 07 - Loss Function 01  
+
+### Day 08 - Loss Function 02 (mini-batch)
+
+### Day 09 - Numerical Differentation
