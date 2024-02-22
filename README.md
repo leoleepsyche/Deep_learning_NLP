@@ -17,3 +17,5 @@
 ### Day 08 - Loss Function 02 (mini-batch)
 
 ### Day 09 - Numerical Differentation
+
+### Day 10 - Gradient Descent
